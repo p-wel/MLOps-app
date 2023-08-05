@@ -10,7 +10,7 @@ In the project I've: <br>
   <li>prepared dataset to train and test</li>
   <li>created template pipeline project using Kedro</li>
   <li>trained the dataset using Keras lib</li>
-  <li>vizualized results via Kedro and Wandb</li>
+  <li>vizualized results via Wandb</li>
 </ul>
 
 ---
