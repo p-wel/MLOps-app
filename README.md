@@ -13,16 +13,15 @@ In the project I've: <br>
   <li>vizualized results via Kedro and Wandb</li>
 </ul>
 
-
 ---
 <div align="center">
-
+  
 | TOOL | PURPOSE |
 | ------------- | ------------- |
 | <div align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> | <div align="center"> Basics |
-| <div align="center"> <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/d84c2b47-daa1-4e71-a37b-8044e1032467" alt="kedro" width="50" height="50"/> </a> | <div align="center"> Kedro pipeline project |
-| <div align="center"> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/51a400e2-0be0-4916-a66e-eed093311988" alt="python" width="105" height="30"/> </a> | <div align="center"> Dataset training |
-| <div align="center"> <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/834176ff-2abf-4dee-ae18-7f5dd6cf5cb9" alt="kedro" width="150" height="50"/> </a> | <div align="center"> Visualize results |
+| <div align="center"> <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/f51dd0a1-0db2-44e7-b492-9a5574f453bc" alt="kedro" width="100" height="30"/> </a> | <div align="center"> Pipeline project |
+| <div align="center"> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/eccfd912-6a1d-4e64-8e32-b609f67c6a1b" alt="keras" width="105" height="30"/> </a> | <div align="center"> Dataset training |
+| <div align="center"> <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/5eea6e4b-1a70-4fb9-95ca-b32c3bad6393" alt="wandb" width="150" height="50"/> </a> | <div align="center"> Visualize results |
 </div>
 
 ---
@@ -31,7 +30,7 @@ In the project I've: <br>
   
 | STEP | HOW TO |
 | ------------- | ------------- |
-| <div align="center"> Python dependencies | `pip install -r requirements.txt` |
+| <div align="center"> Install Python dependencies | `pip install -r requirements.txt` |
 | <div align="center"> Run Kedro training nodes | `cd kedro-project`<br> `kedro run` |
 | <div align="center"> Run Kedro vizualization | `kedro viz` |
 </div>
@@ -39,8 +38,8 @@ In the project I've: <br>
 ---
 <h4 align="center">Screenshoots</h4>
 <h5 align="center">Kedro viz (pipeline with nodes)</h5>
-<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/7fb54b67-5e38-4372-8243-8298abf702ac" width="815" height="1200"/> </div>
+<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/8d145dca-7bc0-487f-88cc-59a2150fbbca" width="815" height="1200"/> </div>
 <h5 align="center">Wandb dashboard</h5>
-<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/d4351077-a04b-4494-9419-1a642525009f" width="920" height="440"/> </div>
+<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/271b4ab0-bdcd-4269-bb70-c2ba4a715f1a" width="920" height="440"/> </div>
 <h5 align="center">Kaggle dataset</h5>
-<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/8fea9138-45dd-4889-b9bd-2a4fb03b8ba8" width="920" height="490"/> </div>
+<div align="center"> <img src="https://github.com/p-wel/MLOps-app/assets/75095360/d2c4f1ea-32a8-4fd8-ac8e-8b7da7129e24" width="920" height="490"/> </div>
