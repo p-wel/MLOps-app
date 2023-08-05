@@ -9,7 +9,7 @@ In the project I've: <br>
   <li>used one of Kaggle public dataset</li>
   <li>prepared dataset to train and test</li>
   <li>created template pipeline project using Kedro</li>
-  <li>trained the dataset using Keras lib</li>
+  <li>trained and evaluated the dataset using Keras lib (RMSE and R2)</li>
   <li>vizualized results via Wandb</li>
 </ul>
 
@@ -32,7 +32,7 @@ In the project I've: <br>
 | ------------- | ------------- |
 | <div align="center"> Install Python dependencies | `pip install -r requirements.txt` |
 | <div align="center"> Run Kedro training nodes | `cd kedro-project`<br> `kedro run` |
-| <div align="center"> Run Kedro vizualization | `kedro viz` |
+| <div align="center"> Run Kedro pipeline vizualization | `kedro viz` |
 </div>
 
 ---
