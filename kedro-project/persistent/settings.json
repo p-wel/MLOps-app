@@ -1,0 +1,30 @@
+{
+ "mapping": {
+  "gender": [
+   "Male",
+   "Female",
+   "Other"
+  ],
+  "ever_married": [
+   "Yes",
+   "No"
+  ],
+  "work_type": [
+   "Private",
+   "Self-employed",
+   "Never_worked",
+   "Govt_job",
+   "children"
+  ],
+  "Residence_type": [
+   "Rural",
+   "Urban"
+  ],
+  "smoking_status": [
+   "smokes",
+   "formerly smoked",
+   "never smoked",
+   "Unknown"
+  ]
+ }
+}
