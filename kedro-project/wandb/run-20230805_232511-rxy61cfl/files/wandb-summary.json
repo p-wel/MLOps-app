@@ -1,0 +1,1 @@
+{"model": "ExtraTreesGini", "score_val": 0.99, "pred_time_val": 0.13152813911437988, "fit_time": 0.9603142738342285, "pred_time_val_marginal": 0.13152813911437988, "fit_time_marginal": 0.9603142738342285, "stack_level": 1, "can_infer": true, "fit_order": 5, "_timestamp": 1691270712.2606714, "_runtime": 0.9599814414978027, "_step": 6, "_wandb": {"runtime": 0}}

@@ -1,0 +1,51 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2023-08-05T21:25:17.210511",
+    "startedAt": "2023-08-05T21:25:16.449384",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "run"
+    ],
+    "state": "running",
+    "program": "-m __main__",
+    "git": {
+        "remote": "https://github.com/s19324-pw/machine-learning-app.git",
+        "commit": "7fa33bca4d3220137140b46dd14c437f7010f394"
+    },
+    "email": "wojtowiczp97@gmail.com",
+    "root": "C:/Users/wojto/PycharmProjects/machine-learning-app",
+    "host": "DELL-PW",
+    "username": "wojto",
+    "executable": "C:\\Users\\wojto\\PycharmProjects\\venv\\machine-learning-app\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1690.0,
+        "min": 0.0,
+        "max": 1690.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1690.0,
+            "min": 0.0,
+            "max": 1690.0
+        }
+    ],
+    "disk": {
+        "total": 382.65055084228516,
+        "used": 130.8824691772461
+    },
+    "gpu": "NVIDIA GeForce MX330",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX330",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.729286193847656
+    }
+}
